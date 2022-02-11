@@ -3,10 +3,11 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
+  const a = 1;
   return (
     <div className="App">
       ...test<div>add somthing</div>
-      <span>stashTest1</span>
+      <span>{a}</span>
     </div>
   );
 }
