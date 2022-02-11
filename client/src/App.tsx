@@ -7,6 +7,7 @@ function App() {
     <div className="App">
       hi i am branch1!!<div>after revert1 try</div>
       <div>thrid commit1</div>
+      <div>thrid commit2</div>
     </div>
   );
 }
