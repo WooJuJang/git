@@ -10,7 +10,6 @@ function App() {
       <div>thrid commit2</div>
       <div>thrid commit3</div>
       <div>last1</div>
-      <div>hello</div>
     </div>
   );
 }
