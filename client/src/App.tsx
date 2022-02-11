@@ -7,6 +7,7 @@ function App() {
     <div className="App">
       <div>hi i am branch1!!</div>
       <div>This is second commit</div>
+      <div>This is thrid commit</div>
     </div>
   );
 }
